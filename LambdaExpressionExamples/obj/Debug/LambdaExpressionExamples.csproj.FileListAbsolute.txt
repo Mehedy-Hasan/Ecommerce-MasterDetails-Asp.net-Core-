@@ -1,0 +1,7 @@
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\bin\Debug\LambdaExpressionExamples.exe.config
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\bin\Debug\LambdaExpressionExamples.exe
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\bin\Debug\LambdaExpressionExamples.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\obj\Debug\LambdaExpressionExamples.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\obj\Debug\LambdaExpressionExamples.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\obj\Debug\LambdaExpressionExamples.exe
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\LambdaExpressionExamples\obj\Debug\LambdaExpressionExamples.pdb

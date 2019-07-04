@@ -1,0 +1,673 @@
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 02\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 03\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 04\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 05\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 06\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Edit.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Edit.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.deps.json
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.json
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.runtimeconfig.dev.json
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csprojAssemblyReference.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CoreCompileInputs.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorAssemblyInfo.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfoInputs.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.AssemblyInfo.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.input.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.TagHelpers.output.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorCoreGenerate.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Details.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Create.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Edit.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Order\Index.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\CategoryWiseProduct.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Create.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Product\Index.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MyLayout.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cache
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.RazorTargetAssemblyInfo.cs
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.Views.pdb
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.csproj.CopyComplete
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.dll
+D:\Master Details\HelloCoreMVCApp\HelloCoreMVCApp\obj\Debug\netcoreapp2.1\HelloCoreMVCApp.pdb

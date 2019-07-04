@@ -1,0 +1,154 @@
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 07\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 08\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 10\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 11\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 12\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 13\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 14\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Training\ASP.NET Core MVC\Collab 1\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Class video\Day 15\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\ASP.NET Core\Practice\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.dll
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\DatabaseContext.pdb
+D:\Master Details\HelloCoreMVCApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Master Details\HelloCoreMVCApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
